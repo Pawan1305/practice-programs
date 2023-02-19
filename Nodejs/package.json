@@ -1,0 +1,19 @@
+{
+  "name": "blah",
+  "version": "1.0.0",
+  "description": "blah Blah bLaH",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "sam",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "Blah"
+  },
+  "keywords": [
+    "BLAH!"
+  ]
+}
